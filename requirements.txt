@@ -1,0 +1,8 @@
+pandas
+plotly
+requests
+streamlit
+google-cloud-bigquery
+pandas-gbq
+tqdm
+openpyxl
