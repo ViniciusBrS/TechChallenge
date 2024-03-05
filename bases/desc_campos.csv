@@ -1,0 +1,149 @@
+﻿fullname;mode;type;description
+ano;;INTEGER;Ano
+mes;;INTEGER;Mês do Ano
+semana;;INTEGER;Semana do Mês
+sigla_uf;;STRING;Sigla da Unidade da Federação
+capital;;STRING;Capital do Estado
+rm_ride;;STRING;Região Metropolitana e Região Administrativa Integrada de Desenvolvimento
+estrato;;STRING;Estrato
+upa;;STRING;Unidade Primária de Amostragem
+v1008;;INTEGER;Número do Domicílio
+v1016;;INTEGER;Número da Entrevista no Domicílio
+v1022;;STRING;Situação do Domicílio
+v1023;;STRING;Tipo de Área
+v1030;;INTEGER;Projeção da população do mês (referência dia 15 do mês de referência da coleta)
+v1031;;FLOAT;Peso mensal com correção de não entrevista sem pós estratificação pela projeção de população
+v1032;;FLOAT;Peso mensal com correção de não entrevista com pós estratificação pela projeção de população
+posest;;STRING;Domínios de projeção
+a001;;INTEGER;Ordem da Entrevista
+a001a;;STRING;Condição no Domicílio
+a001b1;;INTEGER;Dia de Nascimento
+a001b2;;INTEGER;Mês de Nascimento
+a001b3;;INTEGER;Ano de Nascimento
+a002;;STRING;Idade
+a003;;STRING;Sexo
+a004;;STRING;Raça ou Cor
+a005;;STRING;Escolaridade
+a006;;STRING;Frequenta escola
+a006a;;STRING;A escola / faculdade que frequenta é pública ou privada?
+a006b;;STRING;Você está tendo aulas presenciais?
+a007;;STRING;Na semana passada, _____ foram disponibilizadas atividades escolares para realizar em casa?
+a007a;;STRING;Por que não realizou as atividades disponibilizadas na semana passada?
+a008;;STRING;Na semana passada, em quantos dias _____ dedicou-se às atividades escolares?
+a009;;STRING;Na semana passada, quanto tempo por dia ____ gastou fazendo as atividades escolares?
+b0011;;STRING;Na semana passada teve febre?
+b0012;;STRING;Na semana passada teve tosse?
+b0013;;STRING;Na semana passada teve dor de garganta?
+b0014;;STRING;Na semana passada teve dificuldade para respirar?
+b0015;;STRING;Na semana passada teve dor de cabeça?
+b0016;;STRING;Na semana passada teve dor no peito?
+b0017;;STRING;Na semana passada teve nausea?
+b0018;;STRING;Na semana passada teve nariz entupido ou escorrendo?
+b0019;;STRING;Na semana passada teve fadiga?
+b00110;;STRING;Na semana passada teve dor nos olhos?
+b00111;;STRING;Na semana passada teve perda de cheiro ou sabor?
+b00112;;STRING;Na semana passada teve dor muscular?
+b00113;;STRING;Na semana passada teve diarreia?
+b002;;STRING;Por causa disso, foi a algum estabelecimento de saude?
+b0031;;STRING;Providência tomada para recuperar dos sintomas foi ficar em casa
+b0032;;STRING;Providência tomada para recuperar dos sintomas foi ligar para algum profissional de saúde
+b0033;;STRING;Providência tomada para recuperar dos sintomas foi comprar e/ou tomar remédio por conta própria
+b0034;;STRING;Providência tomada para recuperar dos sintomas foi comprar e/ou tomar remédio por orientação médica
+b0035;;STRING;Providência tomada para recuperar dos sintomas foi receber visita de algum profissional de saúde do SUS (equipe de saúde da família, agente comunitário, etc.)
+b0036;;STRING;Providência tomada para recuperar dos sintomas foi receber visita de profissional de saúde particular
+b0037;;STRING;Providência tomada para recuperar dos sintomas foi outra
+b0041;;STRING;Local que buscou atendimento foi posto de saúde/Unidade básica de saúde /Equipe de Saúde da Família (médico, enfermeiro, técnico de enfermagem ou agente comunitário de saúde)
+b0042;;STRING;Local que buscou atendimento foi pronto socorro do SUS/UPA
+b0043;;STRING;Local que buscou atendimento foi hospital do SUS
+b0044;;STRING;Local que buscou atendimento foi ambulatório ou consultório privado ou ligado às forças armadas
+b0045;;STRING;Local que buscou atendimento foi pronto socorro privado ou ligado às forças armadas
+b0046;;STRING;Local que buscou atendimento foi hospital privado ou ligado às forças armadas
+b005;;STRING;Ao procurar o hospital, teve que ficar internado por um dia ou mais
+b006;;STRING;Durante a internação, foi sedado, entubado e colocado em respiração artificial com ventilador
+b007;;STRING;Tem algum plano de saúde médico, seja particular, de empresa ou de órgão público
+b008;;STRING;O(A) Sr(a) fez algum teste para saber se estava infectado(a) pelo coronavírus?
+b009a;;STRING;Fez o exame coletado com cotonete na boca e/ou nariz (SWAB)?
+b009b;;STRING;Qual o resultado?
+b009c;;STRING;Fez o exame de coleta de sangue através de furo no dedo?
+b009d;;STRING;Qual o resultado?
+b009e;;STRING;Fez o exame de coleta de sangue através da veia da braço?
+b009f;;STRING;Qual o resultado?
+b0101;;STRING;Algum médico já lhe deu o diagnóstico de diabetes?
+b0102;;STRING;Algum médico já lhe deu o diagnóstico de hipertensão?
+b0103;;STRING;Algum médico já lhe deu o diagnóstico de asma/bronquite/enfisema/doenças respiratória crônica ou doença de pulmão?
+b0104;;STRING;Algum médico já lhe deu o diagnóstico de doenças do coração (infarto, angina, insuficiência cardiáca, arritima)?
+b0105;;STRING;Algum médico já lhe deu o diagnóstico de depressão?
+b0106;;STRING;Algum médico já lhe deu o diagnóstico de câncer?
+b011;;STRING;Na semana passada, devido à pandemia do Coronavírus, em que medida o(a) Sr(a) restringiu o contato com as pessoas?
+c001;;STRING;Na semana passada, por pelo menos uma hora, trabalhou ou fez algum bico?
+c002;;STRING;Na semana passada, estava temporariamente afastado de algum trabalho?
+c003;;STRING;Qual o principal motivo deste afastamento temporário?
+c004;;STRING;Continuou a ser remunerado (mesmo que parcialmente) por esse trabalho
+c005;;STRING;Há quanto tempo está afastado desse trabalho?
+c0051;;INTEGER;tempo que estava afastado (De 1 mês a menos de 1 ano)
+c0052;;INTEGER;tempo que estava afastado (De 1 ano a menos de 2 anos)
+c0053;;INTEGER;tempo que estava afastado (de 02 anos a 98 anos)
+c006;;STRING;Tem mais de um trabalho
+c007;;STRING;No trabalho (único ou principal) que tinha nessa semana, era
+c007a;;STRING;Esse trabalho era na área
+c007b;;STRING;Tem carteria de trabalho assinada ou é funcionário público estatutário?
+c007c;;STRING;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)?
+c007d;;STRING;Qual é a principal atividade do local ou empresa em que você trabalha?
+c007e;;STRING;Na semana passada, quantos empregados trabalhavam nesse negócio/empresa que ... tinha ?
+c007e1;;INTEGER;1 a 5 empregados
+c007e2;;INTEGER;6 a 10 empregados
+c007f;;STRING;No trabalho (único ou principal) que tinha nesa semana, o(a) Sr(a) estava com o contrato de trabalho suspenso?
+c008;;INTEGER;Quantas horas, por semana, normalmente trabalhava?
+c009;;INTEGER;Quantas horas, na semana passada, de fato trabalhou?
+c009a;;STRING;Na semana passada, o(a) Sr(a) gostaria de ter trabalhado mais horas do que as de fato trabalhadas?
+c010;;STRING;Quanto recebia (ou retirava) normalmente em todos os seus trabalhos
+c0101;;STRING;Recebia/retirava normalmente em dinheiro
+c01011;;STRING;Número da faixa do rendimento/retirada em dinheiro
+c01012;;FLOAT;Valor em dinheiro
+c0102;;STRING;Recebia normalmente em produtos e mercadorias
+c01021;;STRING;Número da faixa do rendimento/retirada em produtos e mercadorias
+c01022;;FLOAT;Valor em produtos e mercadorias
+c0103;;STRING;Recebia normalmente somente em benefícios
+c0104;;STRING;Era não remunerado
+c011a;;STRING;Quanto recebia (ou retirava) normalmente em todos os seus trabalhos
+c011a1;;STRING;Recebia/retirava normalmente em dinheiro
+c011a11;;STRING;Número da faixa do rendimento/retirada em dinheiro
+c011a12;;FLOAT;Valor em dinheiro
+c011a2;;STRING;Recebia normalmente em produtos e mercadorias
+c011a21;;STRING;Número da faixa do rendimento/retirada em produtos e mercadorias
+c011a22;;FLOAT;Valor em produtos e mercadorias
+c012;;STRING;Na maior parte do tempo, na semana passada, esse trabalho (único ou principal) foi exercido no mesmo local em que costuma trabalhar?
+c013;;STRING;Na semana passada, o(a) Sr(a) estava em trabalho remoto (home office ou teletrabalho)?
+c014;;STRING;O(A) Sr(a) contribui para o INSS?
+c015;;STRING;Na semana passada ___ tomou alguma providência efetiva para conseguir trabalho?
+c016;;STRING;Qual o principal motivo de não ter procurado trabalho na semana passada?
+c017a;;STRING;Embora você não tenha procurado trabalho, gostaria de ter trabalhado na semana passada?
+d0011;;STRING;Rendimento recebido de aposentadoria e pensão por todos os moradores
+d0013;;FLOAT;Somatório dos valores recebidos
+d0021;;STRING;Rendimento de pensão alimentícia, doação ou mesada em dinheiro de pessoa que não morava no domicílio
+d0023;;FLOAT;Somatório dos valores recebidos
+d0031;;STRING;Rendimentos de Programa Bolsa Família
+d0033;;FLOAT;Somatório dos valores recebidos
+d0041;;STRING;No mês de ... (mês de referência), ... recebeu rendimentos de Benefício Assistencial de Prestação Continuada – BPC-LOAS?
+d0043;;FLOAT;Somatório dos valores recebidos
+d0051;;STRING;Auxilios emergenciais relacionados ao coronavirus
+d0053;;FLOAT;Somatório dos valores recebidos
+d0061;;STRING;Seguro desemprego
+d0063;;FLOAT;Somatório dos valores recebidos
+d0071;;STRING;Outros rendimentos, como aluguel, arrendamento, pervidencia privada, bolsa de estudos, rendimentos de aplicação financeira etc.
+d0073;;FLOAT;Somatório dos valores recebidos
+e001;;STRING;Durante o período da pandemia alguém deste domicílio solicitou algum empréstimo?
+e0021;;STRING;Este empréstimo foi adquirido com banco ou financeira
+e0022;;STRING;Este empréstimo foi adquirido com parente ou amigo
+e0023;;STRING;Este empréstimo foi adquirido com empregados ou patrão
+e0024;;STRING;Este empréstimo foi adquirido com outro local ou pessoa
+f001;;STRING;Este domicílio é
+f0021;;FLOAT;Qual foi o valor mensal do aluguel pago, ou que deveria ter sido pago, no mês de referência?
+f0022;;STRING;Número da faixa do aluguel pago
+f002a1;;STRING;No seu domicílio há os seguintes itens básicos de limepeza e proteção - sabão ou detergente
+f002a2;;STRING;No seu domicílio há os seguintes itens básicos de limepeza e proteção - álcool 70% ou superior (gel ou líquido)
+f002a3;;STRING;No seu domicílio há os seguintes itens básicos de limepeza e proteção - máscaras
+f002a4;;STRING;No seu domicílio há os seguintes itens básicos de limepeza e proteção - luvas descartáveis
+f002a5;;STRING;No seu domicílio há os seguintes itens básicos de limepeza e proteção - água sanitária ou desinfetante
+f0061;;STRING;Quem respondeu ao questionário?
+f006;;INTEGER;Número de ordem do morador que prestou as informações

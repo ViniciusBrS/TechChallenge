@@ -120,7 +120,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-bases/
 .streamlit
 env_app/
 .env
@@ -130,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+bases/microdados.csv
 
 # Spyder project settings
 .spyderproject

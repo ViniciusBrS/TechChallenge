@@ -1,0 +1,555 @@
+;id_tabela;nome_coluna;chave;cobertura_temporal;valor
+0;microdados;capital;11;2020-05(1)2020-11;Município de Porto Velho (RO)
+1;microdados;capital;12;2020-05(1)2020-11;Município de Rio Branco (AC)
+2;microdados;capital;13;2020-05(1)2020-11;Município de Manaus (AM)
+3;microdados;capital;14;2020-05(1)2020-11;Município de Boa Vista (RR)
+4;microdados;capital;15;2020-05(1)2020-11;Município de Belém (PA)
+5;microdados;capital;16;2020-05(1)2020-11;Município de Macapá (AP)
+6;microdados;capital;17;2020-05(1)2020-11;Município de Palmas (TO)
+7;microdados;capital;21;2020-05(1)2020-11;Município de São Luís (MA)
+8;microdados;capital;22;2020-05(1)2020-11;Município de Teresina (PI)
+9;microdados;capital;23;2020-05(1)2020-11;Município de Fortaleza (CE)
+10;microdados;capital;24;2020-05(1)2020-11;Município de Natal (RN)
+11;microdados;capital;25;2020-05(1)2020-11;Município de João Pessoa (PB)
+12;microdados;capital;26;2020-05(1)2020-11;Município de Recife (PE)
+13;microdados;capital;27;2020-05(1)2020-11;Município de Maceió (AL)
+14;microdados;capital;28;2020-05(1)2020-11;Município de Aracaju (SE)
+15;microdados;capital;29;2020-05(1)2020-11;Município de Salvador (BA)
+16;microdados;capital;31;2020-05(1)2020-11;Município de Belo Horizonte (MG)
+17;microdados;capital;32;2020-05(1)2020-11;Município de Vitória (ES)
+18;microdados;capital;33;2020-05(1)2020-11;Município de Rio de Janeiro (RJ)
+19;microdados;capital;35;2020-05(1)2020-11;Município de São Paulo (SP)
+20;microdados;capital;41;2020-05(1)2020-11;Município de Curitiba (PR)
+21;microdados;capital;42;2020-05(1)2020-11;Município de Florianópolis (SC)
+22;microdados;capital;43;2020-05(1)2020-11;Município de Porto Alegre (RS)
+23;microdados;capital;50;2020-05(1)2020-11;Município de Campo Grande (MS)
+24;microdados;capital;51;2020-05(1)2020-11;Município de Cuiabá (MT)
+25;microdados;capital;52;2020-05(1)2020-11;Município de Goiânia (GO)
+26;microdados;capital;53;2020-05(1)2020-11;Município de Brasília (DF)
+27;microdados;rm_ride;13;2020-05(1)2020-11;Região Metropolitana de Manaus (AM)
+28;microdados;rm_ride;15;2020-05(1)2020-11;Região Metropolitana de Belém (PA)
+29;microdados;rm_ride;16;2020-05(1)2020-11;Região Metropolitana de Macapá (AP)
+30;microdados;rm_ride;21;2020-05(1)2020-11;Região Metropolitana de Grande São Luís (MA)
+31;microdados;rm_ride;22;2020-05(1)2020-11;Região Administrativa Integrada de Desenvolvimento da Grande Teresina (PI)
+32;microdados;rm_ride;23;2020-05(1)2020-11;Região Metropolitana de Fortaleza (CE)
+33;microdados;rm_ride;24;2020-05(1)2020-11;Região Metropolitana de Natal (RN)
+34;microdados;rm_ride;25;2020-05(1)2020-11;Região Metropolitana de João Pessoa (PB)
+35;microdados;rm_ride;26;2020-05(1)2020-11;Região Metropolitana de Recife (PE)
+36;microdados;rm_ride;27;2020-05(1)2020-11;Região Metropolitana de Maceió (AL)
+37;microdados;rm_ride;28;2020-05(1)2020-11;Região Metropolitana de Aracaju (SE)
+38;microdados;rm_ride;29;2020-05(1)2020-11;Região Metropolitana de Salvador (BA)
+39;microdados;rm_ride;31;2020-05(1)2020-11;Região Metropolitana de Belo Horizonte (MG)
+40;microdados;rm_ride;32;2020-05(1)2020-11;Região Metropolitana de Grande Vitória (ES)
+41;microdados;rm_ride;33;2020-05(1)2020-11;Região Metropolitana de Rio de Janeiro (RJ)
+42;microdados;rm_ride;35;2020-05(1)2020-11;Região Metropolitana de São Paulo (SP)
+43;microdados;rm_ride;41;2020-05(1)2020-11;Região Metropolitana de Curitiba (PR)
+44;microdados;rm_ride;42;2020-05(1)2020-11;Região Metropolitana de Florianópolis (SC)
+45;microdados;rm_ride;43;2020-05(1)2020-11;Região Metropolitana de Porto Alegre (RS)
+46;microdados;rm_ride;51;2020-05(1)2020-11;Região Metropolitana de Vale do Rio Cuiabá (MT)
+47;microdados;rm_ride;52;2020-05(1)2020-11;Região Metropolitana de Goiânia (GO)
+48;microdados;v1022;1;2020-05(1)2020-11;Urbana
+49;microdados;v1022;2;2020-05(1)2020-11;Rural
+50;microdados;v1023;1;2020-05(1)2020-11;Capital
+51;microdados;v1023;2;2020-05(1)2020-11;Resto da RM (Região Metropolitana, excluindo a capital)
+52;microdados;v1023;3;2020-05(1)2020-11;Resto da RIDE (Região Integrada de Desenvolvimento Econômico, excluindo a capital)
+53;microdados;v1023;4;2020-05(1)2020-11;Resto da UF (Unidade da Federação, excluindo a região metropolitana e a RIDE)
+54;microdados;a001a;1;2020-05(1)2020-11;Pessoa responsável pelo domicílio
+55;microdados;a001a;2;2020-05(1)2020-11;Cônjuge ou companheiro(a) de sexo diferente
+56;microdados;a001a;3;2020-05(1)2020-11;Cônjuge ou companheiro(a) do mesmo sexo
+57;microdados;a001a;4;2020-05(1)2020-11;Filho(a) do responsável e do cônjuge
+58;microdados;a001a;5;2020-05(1)2020-11;Filho(a) somente do responsável
+59;microdados;a001a;6;2020-05(1)2020-11;Filho(a) somente do cônjuge
+60;microdados;a001a;7;2020-05(1)2020-11;Genro ou nora
+61;microdados;a001a;8;2020-05(1)2020-11;Pai, mãe, padrasto ou madrasta
+62;microdados;a001a;9;2020-05(1)2020-11;Sogro(a)
+63;microdados;a001a;10;2020-05(1)2020-11;Neto(a)
+64;microdados;a001a;11;2020-05(1)2020-11;Bisneto(a)
+65;microdados;a001a;12;2020-05(1)2020-11;Irmão ou irmã
+66;microdados;a001a;13;2020-05(1)2020-11;Avô ou avó
+67;microdados;a001a;14;2020-05(1)2020-11;Outro parente
+68;microdados;a001a;15;2020-05(1)2020-11;Agregado(a) - Não parente que não compartilha despesas
+69;microdados;a001a;16;2020-05(1)2020-11;Convivente - Não parente que compartilha despesas
+70;microdados;a001a;17;2020-05(1)2020-11;Pensionista
+71;microdados;a001a;18;2020-05(1)2020-11;Empregado(a) doméstico(a)
+72;microdados;a001a;19;2020-05(1)2020-11;Parente do(a) empregado(a) doméstico(a)
+73;microdados;a003;1;2020-05(1)2020-11;Homem
+74;microdados;a003;2;2020-05(1)2020-11;Mulher
+75;microdados;a004;1;2020-05(1)2020-11;Branca
+76;microdados;a004;2;2020-05(1)2020-11;Preta
+77;microdados;a004;3;2020-05(1)2020-11;Amarela
+78;microdados;a004;4;2020-05(1)2020-11;Parda
+79;microdados;a004;5;2020-05(1)2020-11;Indígena
+80;microdados;a004;9;2020-05(1)2020-11;Ignorado
+81;microdados;a005;1;2020-05(1)2020-11;Sem instrução
+82;microdados;a005;2;2020-05(1)2020-11;Fundamental incompleto
+83;microdados;a005;3;2020-05(1)2020-11;Fundamental completa
+84;microdados;a005;4;2020-05(1)2020-11;Médio incompleto
+85;microdados;a005;5;2020-05(1)2020-11;Médio completo
+86;microdados;a005;6;2020-05(1)2020-11;Superior incompleto
+87;microdados;a005;7;2020-05(1)2020-11;Superior completo
+88;microdados;a005;8;2020-05(1)2020-11;Pós-graduação, mestrado ou doutorado
+89;microdados;a006;1;2020-05(1)2020-11;Sim
+90;microdados;a006;2;2020-05(1)2020-11;Não
+91;microdados;a006;;2020-05(1)2020-11;Não aplicável
+92;microdados;a006a;1;2020-05(1)2020-11;Pública
+93;microdados;a006a;2;2020-05(1)2020-11;Privada
+94;microdados;a006a;;2020-05(1)2020-11;Não aplicável
+95;microdados;a006b;1;2020-05(1)2020-11;Sim, normalmente
+96;microdados;a006b;2;2020-05(1)2020-11;Sim, mas apenas parcialmente
+97;microdados;a006b;3;2020-05(1)2020-11;Não, e meu normalmente é presencial/semipresencial
+98;microdados;a006b;4;2020-05(1)2020-11;Não, meu curso é online
+99;microdados;a006b;;2020-05(1)2020-11;Não aplicável
+100;microdados;a007;1;2020-05(1)2020-11;Sim, e realizou pelo menos parte delas
+101;microdados;a007;2;2020-05(1)2020-11;Sim, mas não realizou (por qualquer motivo)
+102;microdados;a007;3;2020-05(1)2020-11;Não
+103;microdados;a007;4;2020-05(1)2020-11;Não, porque estava de férias
+104;microdados;a007;;2020-05(1)2020-11;Não aplicável
+105;microdados;a007a;1;2020-05(1)2020-11;Não tinha computador / tablet / celular disponível
+106;microdados;a007a;2;2020-05(1)2020-11;Não tinha acesso à internet ou a qualidade dela era insuficiente
+107;microdados;a007a;3;2020-05(1)2020-11;Por problemas de saúde da própria pessoa
+108;microdados;a007a;4;2020-05(1)2020-11;Tinha que cuidar dos afazeres domésticos, do(s) filhos ou de outro(s) parentes
+109;microdados;a007a;5;2020-05(1)2020-11;Não conseguiu se concentrar
+110;microdados;a007a;6;2020-05(1)2020-11;Outro motivo. Especifique.
+111;microdados;a007a;0;2020-05(1)2020-11;Não aplicável
+112;microdados;a008;1;2020-05(1)2020-11;1 dia
+113;microdados;a008;2;2020-05(1)2020-11;2 dias
+114;microdados;a008;3;2020-05(1)2020-11;3 dias
+115;microdados;a008;4;2020-05(1)2020-11;4 dias
+116;microdados;a008;5;2020-05(1)2020-11;5 dias
+117;microdados;a008;6;2020-05(1)2020-11;6 ou 7 dias
+118;microdados;a008;;2020-05(1)2020-11;Não aplicável
+119;microdados;a009;1;2020-05(1)2020-11;Menos de 1 hora
+120;microdados;a009;2;2020-05(1)2020-11;De 1 hora a menos de 2 horas
+121;microdados;a009;3;2020-05(1)2020-11;De 2 horas a menos de 5 horas
+122;microdados;a009;4;2020-05(1)2020-11;5 horas ou mais
+123;microdados;a009;;2020-05(1)2020-11;Não aplicável
+124;microdados;b0011;1;2020-05(1)2020-11;Sim
+125;microdados;b0011;2;2020-05(1)2020-11;Não
+126;microdados;b0011;3;2020-05(1)2020-11;Não sabe
+127;microdados;b0012;1;2020-05(1)2020-11;Sim
+128;microdados;b0012;2;2020-05(1)2020-11;Não
+129;microdados;b0012;3;2020-05(1)2020-11;Não sabe
+130;microdados;b0013;1;2020-05(1)2020-11;Sim
+131;microdados;b0013;2;2020-05(1)2020-11;Não
+132;microdados;b0013;3;2020-05(1)2020-11;Não sabe
+133;microdados;b0014;1;2020-05(1)2020-11;Sim
+134;microdados;b0014;2;2020-05(1)2020-11;Não
+135;microdados;b0014;3;2020-05(1)2020-11;Não sabe
+136;microdados;b0015;1;2020-05(1)2020-11;Sim
+137;microdados;b0015;2;2020-05(1)2020-11;Não
+138;microdados;b0015;3;2020-05(1)2020-11;Não sabe
+139;microdados;b0016;1;2020-05(1)2020-11;Sim
+140;microdados;b0016;2;2020-05(1)2020-11;Não
+141;microdados;b0016;3;2020-05(1)2020-11;Não sabe
+142;microdados;b0017;1;2020-05(1)2020-11;Sim
+143;microdados;b0017;2;2020-05(1)2020-11;Não
+144;microdados;b0017;3;2020-05(1)2020-11;Não sabe
+145;microdados;b0018;1;2020-05(1)2020-11;Sim
+146;microdados;b0018;2;2020-05(1)2020-11;Não
+147;microdados;b0018;3;2020-05(1)2020-11;Não sabe
+148;microdados;b0019;1;2020-05(1)2020-11;Sim
+149;microdados;b0019;2;2020-05(1)2020-11;Não
+150;microdados;b0019;3;2020-05(1)2020-11;Não sabe
+151;microdados;b00110;1;2020-05(1)2020-11;Sim
+152;microdados;b00110;2;2020-05(1)2020-11;Não
+153;microdados;b00110;3;2020-05(1)2020-11;Não sabe
+154;microdados;b00111;1;2020-05(1)2020-11;Sim
+155;microdados;b00111;2;2020-05(1)2020-11;Não
+156;microdados;b00111;3;2020-05(1)2020-11;Não sabe
+157;microdados;b00112;1;2020-05(1)2020-11;Sim
+158;microdados;b00112;2;2020-05(1)2020-11;Não
+159;microdados;b00112;3;2020-05(1)2020-11;Não sabe
+160;microdados;b00113;1;2020-05(1)2020-11;Sim
+161;microdados;b00113;2;2020-05(1)2020-11;Não
+162;microdados;b00113;3;2020-05(1)2020-11;Não sabe
+163;microdados;b00113;9;2020-05(1)2020-11;Ignorado
+164;microdados;b002;1;2020-05(1)2020-11;Sim
+165;microdados;b002;2;2020-05(1)2020-11;Não
+166;microdados;b002;9;2020-05(1)2020-11;Ignorado
+167;microdados;b002;;2020-05(1)2020-11;Não aplicável
+168;microdados;b0031;1;2020-05(1)2020-11;Sim
+169;microdados;b0031;2;2020-05(1)2020-11;Não
+170;microdados;b0031;9;2020-05(1)2020-11;Ignorado
+171;microdados;b0031;;2020-05(1)2020-11;Não aplicável
+172;microdados;b0032;1;2020-05(1)2020-11;Sim
+173;microdados;b0032;2;2020-05(1)2020-11;Não
+174;microdados;b0032;9;2020-05(1)2020-11;Ignorado
+175;microdados;b0032;;2020-05(1)2020-11;Não aplicável
+176;microdados;b0033;1;2020-05(1)2020-11;Sim
+177;microdados;b0033;2;2020-05(1)2020-11;Não
+178;microdados;b0033;9;2020-05(1)2020-11;Ignorado
+179;microdados;b0033;;2020-05(1)2020-11;Não aplicável
+180;microdados;b0034;1;2020-05(1)2020-11;Sim
+181;microdados;b0034;2;2020-05(1)2020-11;Não
+182;microdados;b0034;9;2020-05(1)2020-11;Ignorado
+183;microdados;b0034;;2020-05(1)2020-11;Não aplicável
+184;microdados;b0035;1;2020-05(1)2020-11;Sim
+185;microdados;b0035;2;2020-05(1)2020-11;Não
+186;microdados;b0035;9;2020-05(1)2020-11;Ignorado
+187;microdados;b0035;;2020-05(1)2020-11;Não aplicável
+188;microdados;b0036;1;2020-05(1)2020-11;Sim
+189;microdados;b0036;2;2020-05(1)2020-11;Não
+190;microdados;b0036;9;2020-05(1)2020-11;Ignorado
+191;microdados;b0036;;2020-05(1)2020-11;Não aplicável
+192;microdados;b0037;1;2020-05(1)2020-11;Sim
+193;microdados;b0037;2;2020-05(1)2020-11;Não
+194;microdados;b0037;9;2020-05(1)2020-11;Ignorado
+195;microdados;b0037;;2020-05(1)2020-11;Não aplicável
+196;microdados;b0041;1;2020-05(1)2020-11;Sim
+197;microdados;b0041;2;2020-05(1)2020-11;Não
+198;microdados;b0041;9;2020-05(1)2020-11;Ignorado
+199;microdados;b0041;;2020-05(1)2020-11;Não aplicável
+200;microdados;b0042;1;2020-05(1)2020-11;Sim
+201;microdados;b0042;2;2020-05(1)2020-11;Não
+202;microdados;b0042;9;2020-05(1)2020-11;Ignorado
+203;microdados;b0042;;2020-05(1)2020-11;Não aplicável
+204;microdados;b0043;1;2020-05(1)2020-11;Sim
+205;microdados;b0043;2;2020-05(1)2020-11;Não
+206;microdados;b0043;9;2020-05(1)2020-11;Ignorado
+207;microdados;b0043;;2020-05(1)2020-11;Não aplicável
+208;microdados;b0044;1;2020-05(1)2020-11;Sim
+209;microdados;b0044;2;2020-05(1)2020-11;Não
+210;microdados;b0044;9;2020-05(1)2020-11;Ignorado
+211;microdados;b0044;;2020-05(1)2020-11;Não aplicável
+212;microdados;b0045;1;2020-05(1)2020-11;Sim
+213;microdados;b0045;2;2020-05(1)2020-11;Não
+214;microdados;b0045;9;2020-05(1)2020-11;Ignorado
+215;microdados;b0045;;2020-05(1)2020-11;Não aplicável
+216;microdados;b0046;1;2020-05(1)2020-11;Sim
+217;microdados;b0046;2;2020-05(1)2020-11;Não
+218;microdados;b0046;9;2020-05(1)2020-11;Ignorado
+219;microdados;b0046;;2020-05(1)2020-11;Não aplicável
+220;microdados;b005;1;2020-05(1)2020-11;Sim
+221;microdados;b005;2;2020-05(1)2020-11;Não
+222;microdados;b005;3;2020-05(1)2020-11;Não foi atendido
+223;microdados;b005;9;2020-05(1)2020-11;Ignorado
+224;microdados;b005;;2020-05(1)2020-11;Não aplicável
+225;microdados;b006;1;2020-05(1)2020-11;Sim
+226;microdados;b006;2;2020-05(1)2020-11;Não
+227;microdados;b006;9;2020-05(1)2020-11;Ignorado
+228;microdados;b006;;2020-05(1)2020-11;Não aplicável
+229;microdados;b007;1;2020-05(1)2020-11;Sim
+230;microdados;b007;2;2020-05(1)2020-11;Não
+231;microdados;b007;9;2020-05(1)2020-11;Ignorado
+232;microdados;b008;1;2020-05(1)2020-11;Sim
+233;microdados;b008;2;2020-05(1)2020-11;Não
+234;microdados;b008;9;2020-05(1)2020-11;Ignorado
+235;microdados;b009a;1;2020-05(1)2020-11;Sim
+236;microdados;b009a;2;2020-05(1)2020-11;Não
+237;microdados;b009a;9;2020-05(1)2020-11;Ignorado
+238;microdados;b009b;1;2020-05(1)2020-11;Positivo
+239;microdados;b009b;2;2020-05(1)2020-11;Negativo
+240;microdados;b009b;3;2020-05(1)2020-11;Inconclusivo
+241;microdados;b009b;4;2020-05(1)2020-11;Ainda não recebeu o resultado
+242;microdados;b009b;9;2020-05(1)2020-11;Ignorado
+243;microdados;b009b;;2020-05(1)2020-11;Não aplicavel
+244;microdados;b009c;1;2020-05(1)2020-11;Sim
+245;microdados;b009c;2;2020-05(1)2020-11;Não
+246;microdados;b009c;9;2020-05(1)2020-11;Ignorado
+247;microdados;b009d;1;2020-05(1)2020-11;Positivo
+248;microdados;b009d;2;2020-05(1)2020-11;Negativo
+249;microdados;b009d;3;2020-05(1)2020-11;Inconclusivo
+250;microdados;b009d;4;2020-05(1)2020-11;Ainda não recebeu o resultado
+251;microdados;b009d;9;2020-05(1)2020-11;Ignorado
+252;microdados;b009d;;2020-05(1)2020-11;Não aplicavel
+253;microdados;b009e;1;2020-05(1)2020-11;Sim
+254;microdados;b009e;2;2020-05(1)2020-11;Não
+255;microdados;b009e;9;2020-05(1)2020-11;Ignorado
+256;microdados;b009f;1;2020-05(1)2020-11;Positivo
+257;microdados;b009f;2;2020-05(1)2020-11;Negativo
+258;microdados;b009f;3;2020-05(1)2020-11;Inconclusivo
+259;microdados;b009f;4;2020-05(1)2020-11;Ainda não recebeu o resultado
+260;microdados;b009f;9;2020-05(1)2020-11;Ignorado
+261;microdados;b009f;;2020-05(1)2020-11;Não aplicavel
+262;microdados;b0101;1;2020-05(1)2020-11;Sim
+263;microdados;b0101;2;2020-05(1)2020-11;Não
+264;microdados;b0101;9;2020-05(1)2020-11;Ignorado
+265;microdados;b0102;1;2020-05(1)2020-11;Sim
+266;microdados;b0102;2;2020-05(1)2020-11;Não
+267;microdados;b0102;9;2020-05(1)2020-11;Ignorado
+268;microdados;b0103;1;2020-05(1)2020-11;Sim
+269;microdados;b0103;2;2020-05(1)2020-11;Não
+270;microdados;b0103;9;2020-05(1)2020-11;Ignorado
+271;microdados;b0104;1;2020-05(1)2020-11;Sim
+272;microdados;b0104;2;2020-05(1)2020-11;Não
+273;microdados;b0104;9;2020-05(1)2020-11;Ignorado
+274;microdados;b0105;1;2020-05(1)2020-11;Sim
+275;microdados;b0105;2;2020-05(1)2020-11;Não
+276;microdados;b0105;9;2020-05(1)2020-11;Ignorado
+277;microdados;b0106;1;2020-05(1)2020-11;Sim
+278;microdados;b0106;2;2020-05(1)2020-11;Não
+279;microdados;b0106;9;2020-05(1)2020-11;Ignorado
+280;microdados;b011;1;2020-05(1)2020-11;Não fez restrição, levou vida normal como antes da pandemia
+281;microdados;b011;2;2020-05(1)2020-11;Reduziu o contato com as pessoas, mas continuou saindo de casa para trabalho ou atividades não essenciais e/ou recebendo visitas
+282;microdados;b011;3;2020-05(1)2020-11;Ficou em casa e só saiu em caso de necessidade básica
+283;microdados;b011;4;2020-05(1)2020-11;Ficou rigorosamente em casa
+284;microdados;b011;9;2020-05(1)2020-11;Ignorado
+285;microdados;c001;1;2020-05(1)2020-11;Sim
+286;microdados;c001;2;2020-05(1)2020-11;Não
+287;microdados;c001;;2020-05(1)2020-11;Não aplicável
+288;microdados;c002;1;2020-05(1)2020-11;Sim
+289;microdados;c002;2;2020-05(1)2020-11;Não
+290;microdados;c002;;2020-05(1)2020-11;Não aplicável
+291;microdados;c003;1;2020-05(1)2020-11;Estava em quarentena, isolamento, distanciamento social ou férias coletivas
+292;microdados;c003;2;2020-05(1)2020-11;Férias, folga ou jornada de trabalho variável
+293;microdados;c003;3;2020-05(1)2020-11;Licença maternidade ou paternidade
+294;microdados;c003;4;2020-05(1)2020-11;Licença remunerada por motivo de saúde ou acidente da própria pessoa
+295;microdados;c003;5;2020-05(1)2020-11;Outro tipo de licença remunerada (estudo, paternidade, casamento, licença prêmio, etc.)
+296;microdados;c003;6;2020-05(1)2020-11;Afastamento do próprio negócio/empresa por motivo de gestação, saúde, acidente, etc., sem ser remunerado por instituto de previdência
+297;microdados;c003;7;2020-05(1)2020-11;Fatores ocasionais (mau tempo, paralisação nos serviços de transportes, etc.)
+298;microdados;c003;8;2020-05(1)2020-11;Outro motivo
+299;microdados;c003;;2020-05(1)2020-11;Não aplicável
+300;microdados;c004;1;2020-05(1)2020-11;Sim
+301;microdados;c004;2;2020-05(1)2020-11;Não
+302;microdados;c004;3;2020-05(1)2020-11;O trabalho já não era remunerado
+303;microdados;c004;;2020-05(1)2020-11;Não aplicável
+304;microdados;c005;1;2020-05(1)2020-11;Menos de 1 mês
+305;microdados;c005;2;2020-05(1)2020-11;De 1 mês a menos de 1 ano
+306;microdados;c005;3;2020-05(1)2020-11;De 1 ano a menos de 2 anos
+307;microdados;c005;4;2020-05(1)2020-11;2 anos ou mais
+308;microdados;c005;;2020-05(1)2020-11;Não aplicável
+309;microdados;c006;1;2020-05(1)2020-11;Sim
+310;microdados;c006;2;2020-05(1)2020-11;Não
+311;microdados;c006;;2020-05(1)2020-11;Não aplicável
+312;microdados;c007;1;2020-05(1)2020-11;Trabalhador doméstico (empregado doméstico, cuidados, babá)
+313;microdados;c007;2;2020-05(1)2020-11;Militar do exercito, marinha ou aeronáutica
+314;microdados;c007;3;2020-05(1)2020-11;Plicial militar ou bombeiro mlilitar
+315;microdados;c007;4;2020-05(1)2020-11;Empregado do setor privado
+316;microdados;c007;5;2020-05(1)2020-11;Empregado do setor público (inclusive empresas de economia mista)
+317;microdados;c007;6;2020-05(1)2020-11;Empregador
+318;microdados;c007;7;2020-05(1)2020-11;Conta própria
+319;microdados;c007;8;2020-05(1)2020-11;Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente
+320;microdados;c007;9;2020-05(1)2020-11;Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)
+321;microdados;c007;;2020-05(1)2020-11;Não aplicável
+322;microdados;c007a;1;2020-05(1)2020-11;Federal
+323;microdados;c007a;2;2020-05(1)2020-11;Estadual
+324;microdados;c007a;3;2020-05(1)2020-11;Municipal
+325;microdados;c007a;;2020-05(1)2020-11;Não aplicável
+326;microdados;c007b;1;2020-05(1)2020-11;Sim, tem carteira de trabalho assinada
+327;microdados;c007b;2;2020-05(1)2020-11;Sim, é servidor público estatutário
+328;microdados;c007b;3;2020-05(1)2020-11;Não
+329;microdados;c007b;;2020-05(1)2020-11;Não aplicável
+330;microdados;c007c;1;2020-05(1)2020-11;Empregado doméstico, diarista, cozinheiro (em domicílios particulares),
+331;microdados;c007c;2;2020-05(1)2020-11;Faxineiro, auxiliar de limpeza etc. (em empresa pública ou privada),
+332;microdados;c007c;3;2020-05(1)2020-11;Auxiliar de escritório, escriturário
+333;microdados;c007c;4;2020-05(1)2020-11;Secretária, recepcionista
+334;microdados;c007c;5;2020-05(1)2020-11;Operador de Telemarketing
+335;microdados;c007c;6;2020-05(1)2020-11;Comerciante (dono do bar, da loja etc.)
+336;microdados;c007c;7;2020-05(1)2020-11;Balconista, vendedor de loja
+337;microdados;c007c;8;2020-05(1)2020-11;Vendedor a domicílio, representante de vendas, vendedor de catálogo (Avon, Natura etc.)
+338;microdados;c007c;9;2020-05(1)2020-11;Vendedor ambulante (feirante, camelô, comerciante de rua, quiosque)
+339;microdados;c007c;10;2020-05(1)2020-11;Cozinheiro e garçon (de restaurantes, empresas)
+340;microdados;c007c;11;2020-05(1)2020-11;Padeiro, açougueiro e doceiro
+341;microdados;c007c;12;2020-05(1)2020-11;Agricultor, criador de animais, pescador, silvicultor e jardineiro
+342;microdados;c007c;13;2020-05(1)2020-11;Auxiliar da agropecuária (colhedor de frutas, boia fria, etc.)
+343;microdados;c007c;14;2020-05(1)2020-11;Motorista (de aplicativo, de taxi, de van, de mototáxi, de ônibus)
+344;microdados;c007c;15;2020-05(1)2020-11;Motorista de caminhão (caminhoneiro),
+345;microdados;c007c;16;2020-05(1)2020-11;Motoboy,
+346;microdados;c007c;17;2020-05(1)2020-11;Entregador de mercadorias (de restaurante, de farmácia, de loja, Uber Eats, IFood, Rappy etc.)
+347;microdados;c007c;18;2020-05(1)2020-11;Pedreiro, servente de pedreiro, pintor, eletricista, marceneiro
+348;microdados;c007c;19;2020-05(1)2020-11;Mecânico de veículos, máquinas industriais etc.
+349;microdados;c007c;20;2020-05(1)2020-11;Artesão, costureiro e sapateiro
+350;microdados;c007c;21;2020-05(1)2020-11;Cabeleireiro, manicure e afins
+351;microdados;c007c;22;2020-05(1)2020-11;"Operador de máquinas, montador na indústria;"
+352;microdados;c007c;23;2020-05(1)2020-11;"Auxiliar de produção, de carga e descarga;"
+353;microdados;c007c;24;2020-05(1)2020-11;Professor da educação infantil, de ensino fundamental, médio ou superior,
+354;microdados;c007c;25;2020-05(1)2020-11;Pedagogo, professor de idiomas, música, arte e reforço escolar
+355;microdados;c007c;26;2020-05(1)2020-11;Médico, enfermeiro, profissionais de saúde de nível superior
+356;microdados;c007c;27;2020-05(1)2020-11;Técnico, profissional da saúde de nível médio
+357;microdados;c007c;28;2020-05(1)2020-11;Cuidador de crianças, doentes ou idosos
+358;microdados;c007c;29;2020-05(1)2020-11;Segurança, vigilante, outro trabalhador dos serviços de proteção
+359;microdados;c007c;30;2020-05(1)2020-11;Policial civil
+360;microdados;c007c;31;2020-05(1)2020-11;Porteiro, zelador
+361;microdados;c007c;32;2020-05(1)2020-11;Artista, religioso (padre, pastor etc.)
+362;microdados;c007c;33;2020-05(1)2020-11;Diretor, gerente, cargo político ou comissionado
+363;microdados;c007c;34;2020-05(1)2020-11;Outra profissão de nível superior (advogado, engenheiro, contador, jornalista etc.)
+364;microdados;c007c;35;2020-05(1)2020-11;Outro técnico ou profissional de nível médio
+365;microdados;c007c;36;2020-05(1)2020-11;Outros
+366;microdados;c007c;;2020-05(1)2020-11;Não aplicável
+367;microdados;c007d;1;2020-05(1)2020-11;Agricultura, pecuária, produção florestal e pesca
+368;microdados;c007d;2;2020-05(1)2020-11;Extração de petróleo, carvão mineral, minerais metálicos, pedra, areia, sal etc.
+369;microdados;c007d;3;2020-05(1)2020-11;Indústria da transformação (inclusive confecção e fabricação caseira)
+370;microdados;c007d;4;2020-05(1)2020-11;Fornecimento de eletricidade e gás, água, esgoto e coleta de lixo
+371;microdados;c007d;5;2020-05(1)2020-11;Construção
+372;microdados;c007d;6;2020-05(1)2020-11;"Comércio no atacado e varejo;"
+373;microdados;c007d;7;2020-05(1)2020-11;Reparação de veículos automotores e motocicletas
+374;microdados;c007d;8;2020-05(1)2020-11;Transporte de passageiros
+375;microdados;c007d;9;2020-05(1)2020-11;Transporte de mercadorias
+376;microdados;c007d;10;2020-05(1)2020-11;Armazenamento, correios e serviços de entregas
+377;microdados;c007d;11;2020-05(1)2020-11;Hospedagem (hotéis, pousadas etc.)
+378;microdados;c007d;12;2020-05(1)2020-11;Serviço de alimentação (bares, restaurantes, ambulantes de alimentação)
+379;microdados;c007d;13;2020-05(1)2020-11;Informação e comunicação (jornais, rádio e televisão, telecomunicações e informática)
+380;microdados;c007d;14;2020-05(1)2020-11;Bancos, atividades financeiras e de seguros
+381;microdados;c007d;15;2020-05(1)2020-11;Atividades imobiliárias
+382;microdados;c007d;16;2020-05(1)2020-11;Escritórios de advocacia, engenharia, publicidade e veterinária (Atividades profissionais, científicas e técnicas)
+383;microdados;c007d;17;2020-05(1)2020-11;Atividades de locação de mão de obra, segurança, limpeza, paisagismo e teleatendimento
+384;microdados;c007d;18;2020-05(1)2020-11;Administração pública (governo federal, estadual e municipal)
+385;microdados;c007d;19;2020-05(1)2020-11;Educação
+386;microdados;c007d;20;2020-05(1)2020-11;Saúde humana e assistência social
+387;microdados;c007d;21;2020-05(1)2020-11;Organizações religiosas, sindicatos e associações
+388;microdados;c007d;22;2020-05(1)2020-11;Atividade artísticas, esportivas e de recreação
+389;microdados;c007d;23;2020-05(1)2020-11;Cabeleireiros, tratamento de beleza e serviços pessoais
+390;microdados;c007d;24;2020-05(1)2020-11;Serviço doméstico remunerado (será imputado da posição na ocupação)
+391;microdados;c007d;25;2020-05(1)2020-11;Outro
+392;microdados;c007d;;2020-05(1)2020-11;Não aplicável
+393;microdados;c007e;1;2020-05(1)2020-11;1 a 5 empregados
+394;microdados;c007e;2;2020-05(1)2020-11;6 a 10 empregados
+395;microdados;c007e;3;2020-05(1)2020-11;11 ou mais empregados
+396;microdados;c007e;;2020-05(1)2020-11;Não aplicável
+397;microdados;c007f;1;2020-05(1)2020-11;Sim
+398;microdados;c007f;2;2020-05(1)2020-11;Não
+399;microdados;c007f;;2020-05(1)2020-11;Não aplicável
+400;microdados;c009a;1;2020-05(1)2020-11;Sim
+401;microdados;c009a;2;2020-05(1)2020-11;Não
+402;microdados;c009a;;2020-05(1)2020-11;Não aplicável
+403;microdados;c010;1;2020-05(1)2020-11;Indica se o quesito foi respondido
+404;microdados;c010;;2020-05(1)2020-11;Não aplicável
+405;microdados;c0101;1;2020-05(1)2020-11;Em dinheiro
+406;microdados;c0101;;2020-05(1)2020-11;Não aplicável
+407;microdados;c01011;0;2020-05(1)2020-11;0 - 100
+408;microdados;c01011;1;2020-05(1)2020-11;101 - 300
+409;microdados;c01011;2;2020-05(1)2020-11;301 - 600
+410;microdados;c01011;3;2020-05(1)2020-11;601 - 800
+411;microdados;c01011;4;2020-05(1)2020-11;801 - 1.600
+412;microdados;c01011;5;2020-05(1)2020-11;1.601 - 3.000
+413;microdados;c01011;6;2020-05(1)2020-11;3.001 - 10.000
+414;microdados;c01011;7;2020-05(1)2020-11;10.001 - 50.000
+415;microdados;c01011;8;2020-05(1)2020-11;50.001 - 100.000
+416;microdados;c01011;9;2020-05(1)2020-11;Mais de 100.000
+417;microdados;c01011;;2020-05(1)2020-11;Não aplicável
+418;microdados;c0102;2;2020-05(1)2020-11;Em produtos ou mercadorias
+419;microdados;c0102;;2020-05(1)2020-11;Não aplicável
+420;microdados;c01021;0;2020-05(1)2020-11;0 - 100
+421;microdados;c01021;1;2020-05(1)2020-11;101 - 300
+422;microdados;c01021;2;2020-05(1)2020-11;301 - 600
+423;microdados;c01021;3;2020-05(1)2020-11;601 - 800
+424;microdados;c01021;4;2020-05(1)2020-11;801 - 1.600
+425;microdados;c01021;5;2020-05(1)2020-11;1.601 - 3.000
+426;microdados;c01021;6;2020-05(1)2020-11;3.001 - 10.000
+427;microdados;c01021;7;2020-05(1)2020-11;10.001 - 50.000
+428;microdados;c01021;8;2020-05(1)2020-11;50.001 - 100.000
+429;microdados;c01021;9;2020-05(1)2020-11;Mais de 100.000
+430;microdados;c01021;;2020-05(1)2020-11;Não aplicável
+431;microdados;c0103;3;2020-05(1)2020-11;Em benefícios
+432;microdados;c0103;;2020-05(1)2020-11;Não aplicável
+433;microdados;c0104;4;2020-05(1)2020-11;Não remunerado
+434;microdados;c0104;;2020-05(1)2020-11;Não aplicável
+435;microdados;c011a;1;2020-05(1)2020-11;Indica se o quesito foi respondido
+436;microdados;c011a;;2020-05(1)2020-11;Não aplicável
+437;microdados;c011a1;1;2020-05(1)2020-11;Em dinheiro
+438;microdados;c011a1;;2020-05(1)2020-11;Não aplicável
+439;microdados;c011a11;0;2020-05(1)2020-11;0 - 100
+440;microdados;c011a11;1;2020-05(1)2020-11;101 - 300
+441;microdados;c011a11;2;2020-05(1)2020-11;301 - 600
+442;microdados;c011a11;3;2020-05(1)2020-11;601 - 800
+443;microdados;c011a11;4;2020-05(1)2020-11;801 - 1.600
+444;microdados;c011a11;5;2020-05(1)2020-11;1.601 - 3.000
+445;microdados;c011a11;6;2020-05(1)2020-11;3.001 - 10.000
+446;microdados;c011a11;7;2020-05(1)2020-11;10.001 - 50.000
+447;microdados;c011a11;8;2020-05(1)2020-11;50.001 - 100.000
+448;microdados;c011a11;9;2020-05(1)2020-11;Mais de 100.000
+449;microdados;c011a11;;2020-05(1)2020-11;Não aplicável
+450;microdados;c011a2;2;2020-05(1)2020-11;Em produtos ou mercadorias
+451;microdados;c011a2;;2020-05(1)2020-11;Não aplicável
+452;microdados;c011a21;0;2020-05(1)2020-11;0 - 100
+453;microdados;c011a21;1;2020-05(1)2020-11;101 - 300
+454;microdados;c011a21;2;2020-05(1)2020-11;301 - 600
+455;microdados;c011a21;3;2020-05(1)2020-11;601 - 800
+456;microdados;c011a21;4;2020-05(1)2020-11;801 - 1.600
+457;microdados;c011a21;5;2020-05(1)2020-11;1.601 - 3.000
+458;microdados;c011a21;6;2020-05(1)2020-11;3.001 - 10.000
+459;microdados;c011a21;7;2020-05(1)2020-11;10.001 - 50.000
+460;microdados;c011a21;8;2020-05(1)2020-11;50.001 - 100.000
+461;microdados;c011a21;9;2020-05(1)2020-11;Mais de 100.000
+462;microdados;c011a21;;2020-05(1)2020-11;Não aplicável
+463;microdados;c012;1;2020-05(1)2020-11;Sim
+464;microdados;c012;2;2020-05(1)2020-11;Não
+465;microdados;c012;;2020-05(1)2020-11;Não aplicável
+466;microdados;c013;1;2020-05(1)2020-11;Sim
+467;microdados;c013;2;2020-05(1)2020-11;Não
+468;microdados;c013;;2020-05(1)2020-11;Não aplicável
+469;microdados;c014;1;2020-05(1)2020-11;Sim
+470;microdados;c014;2;2020-05(1)2020-11;Não
+471;microdados;c014;;2020-05(1)2020-11;Não aplicável
+472;microdados;c015;1;2020-05(1)2020-11;Sim
+473;microdados;c015;2;2020-05(1)2020-11;Não
+474;microdados;c015;;2020-05(1)2020-11;Não aplicável
+475;microdados;c016;1;2020-05(1)2020-11;Devido à pandemia (isolamento, quarentena ou distanciamento social)
+476;microdados;c016;2;2020-05(1)2020-11;Por problemas de saúde ou gravidez
+477;microdados;c016;4;2020-05(1)2020-11;Não quer trabalhar ou é aposentado
+478;microdados;c016;5;2020-05(1)2020-11;Não tinha experiência profissional ou qualificação
+479;microdados;c016;6;2020-05(1)2020-11;Acha que não vai encontrar trabalho por ser muito jovem ou idoso
+480;microdados;c016;7;2020-05(1)2020-11;Não havia trabalho na localidade
+481;microdados;c016;8;2020-05(1)2020-11;Tinha que cuidar dos afazeres domésticos e ou de parentes
+482;microdados;c016;9;2020-05(1)2020-11;Estava aguardando resposta de medida tomada para conseguir trabalho
+483;microdados;c016;10;2020-05(1)2020-11;Outro motivo
+484;microdados;c016;;2020-05(1)2020-11;Não aplicável
+485;microdados;c017a;1;2020-05(1)2020-11;Sim
+486;microdados;c017a;2;2020-05(1)2020-11;Não
+487;microdados;c017a;;2020-05(1)2020-11;Não aplicável
+488;microdados;d0011;1;2020-05(1)2020-11;Sim
+489;microdados;d0011;2;2020-05(1)2020-11;Não
+490;microdados;d0021;1;2020-05(1)2020-11;Sim
+491;microdados;d0021;2;2020-05(1)2020-11;Não
+492;microdados;d0031;1;2020-05(1)2020-11;Sim
+493;microdados;d0031;2;2020-05(1)2020-11;Não
+494;microdados;d0041;1;2020-05(1)2020-11;Sim
+495;microdados;d0041;2;2020-05(1)2020-11;Não
+496;microdados;d0051;1;2020-05(1)2020-11;Sim
+497;microdados;d0051;2;2020-05(1)2020-11;Não
+498;microdados;d0061;1;2020-05(1)2020-11;Sim
+499;microdados;d0061;2;2020-05(1)2020-11;Não
+500;microdados;d0071;1;2020-05(1)2020-11;Sim
+501;microdados;d0071;2;2020-05(1)2020-11;Não
+502;microdados;e001;1;2020-05(1)2020-11;Sim, e pelo menos um morador conseguiu
+503;microdados;e001;2;2020-05(1)2020-11;Sim, mas nenhum morador conseguiu
+504;microdados;e001;3;2020-05(1)2020-11;Não solicitou
+505;microdados;e0021;1;2020-05(1)2020-11;Sim
+506;microdados;e0021;2;2020-05(1)2020-11;Não
+507;microdados;e0021;;2020-05(1)2020-11;Não aplicavel
+508;microdados;e0022;1;2020-05(1)2020-11;Sim
+509;microdados;e0022;2;2020-05(1)2020-11;Não
+510;microdados;e0022;;2020-05(1)2020-11;Não aplicavel
+511;microdados;e0023;1;2020-05(1)2020-11;Sim
+512;microdados;e0023;2;2020-05(1)2020-11;Não
+513;microdados;e0023;;2020-05(1)2020-11;Não aplicavel
+514;microdados;e0024;1;2020-05(1)2020-11;Sim
+515;microdados;e0024;2;2020-05(1)2020-11;Não
+516;microdados;e0024;;2020-05(1)2020-11;Não aplicavel
+517;microdados;f001;1;2020-05(1)2020-11;Próprio - já pago
+518;microdados;f001;2;2020-05(1)2020-11;Próprio - ainda pagando
+519;microdados;f001;3;2020-05(1)2020-11;Alugado
+520;microdados;f001;4;2020-05(1)2020-11;Cedido por empregador
+521;microdados;f001;5;2020-05(1)2020-11;Cedido por familiar
+522;microdados;f001;6;2020-05(1)2020-11;Cedido de outra forma
+523;microdados;f001;7;2020-05(1)2020-11;Outra condição
+524;microdados;f0022;0;2020-05(1)2020-11;1 - 100
+525;microdados;f0022;1;2020-05(1)2020-11;101 - 300
+526;microdados;f0022;2;2020-05(1)2020-11;301 - 600
+527;microdados;f0022;3;2020-05(1)2020-11;601 - 800
+528;microdados;f0022;4;2020-05(1)2020-11;801 - 1.600
+529;microdados;f0022;5;2020-05(1)2020-11;1.601 - 3.000
+530;microdados;f0022;6;2020-05(1)2020-11;3.001 - 10.000
+531;microdados;f0022;7;2020-05(1)2020-11;10.001 - 50.000
+532;microdados;f0022;8;2020-05(1)2020-11;50.001 - 100.000
+533;microdados;f0022;9;2020-05(1)2020-11;Mais de 100.000
+534;microdados;f0022;88;2020-05(1)2020-11;Aluguel a vencer
+535;microdados;f0022;;2020-05(1)2020-11;Não aplicável
+536;microdados;f002a1;1;2020-05(1)2020-11;Sim
+537;microdados;f002a1;2;2020-05(1)2020-11;Não
+538;microdados;f002a1;3;2020-05(1)2020-11;Não sabe
+539;microdados;f002a2;1;2020-05(1)2020-11;Sim
+540;microdados;f002a2;2;2020-05(1)2020-11;Não
+541;microdados;f002a2;3;2020-05(1)2020-11;Não sabe
+542;microdados;f002a3;1;2020-05(1)2020-11;Sim
+543;microdados;f002a3;2;2020-05(1)2020-11;Não
+544;microdados;f002a3;3;2020-05(1)2020-11;Não sabe
+545;microdados;f002a4;1;2020-05(1)2020-11;Sim
+546;microdados;f002a4;2;2020-05(1)2020-11;Não
+547;microdados;f002a4;3;2020-05(1)2020-11;Não sabe
+548;microdados;f002a5;1;2020-05(1)2020-11;Sim
+549;microdados;f002a5;2;2020-05(1)2020-11;Não
+550;microdados;f002a5;3;2020-05(1)2020-11;Não sabe
+551;microdados;f0061;1;2020-05(1)2020-11;Pessoa moradora
+552;microdados;f0061;2;2020-05(1)2020-11;Pessoa não moradora
+553;microdados;f0061;9;2020-05(1)2020-11;Ignorado
