@@ -130,6 +130,8 @@ ENV/
 env.bak/
 venv.bak/
 bases/microdados.csv
+bases/microdados_trat.csv
+bases/microdados_exp.csv
 
 # Spyder project settings
 .spyderproject
