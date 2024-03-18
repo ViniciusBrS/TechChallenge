@@ -16,4 +16,8 @@
 
 ## Análise
 
+    1. Pessoas que tiveram pelo menos 1 sintoma de COVID foram à algum estabelecimento de saúde?
+        R.Através da nossa análise, percebemos que muitas pessoas que apresentaram pelo menos um sintoma de COVID-19 não 
+          procuraram atendimento em um estabelecimento de saúde. Isso pode ter várias implicações, incluindo a possibilidade 
+          de subnotificação de casos de COVID-19.
 ## Conclusão
