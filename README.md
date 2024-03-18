@@ -1,27 +1,19 @@
-# TechChallenge
+# Tech Challenge Fase 3 - Pós Tech Data Analytics (2DTAT)
 
-## Setup inicial
+## Analise dos dados PNAD - Covid19
 
-### Criar env
+- Estudo nas pesquisas realizadas pelo IBGE via telefone, entre Maio/20 e Novembro/20 com o objetivo de coletar informações econômicas e sociais sobre o impacto da pandemia da Covid-19.
+- Utilizamos os dados disponibilizados pelo datalake do portal [A Base dos dados](https://basedosdados.org/) via [BigQuery](https://basedosdados.org/dataset/c747a59f-b695-4d19-82e4-fef703e74c17?table=5894e1ac-dc08-465d-91a3-703683da85ba)
+- Foi realizada a extração das tabelas: basedosdados.br_ibge_pnad_covid.dicionario e basedosdados.br_ibge_pnad_covid.microdados
 
-```shell
-python -m venv [env_curso]
-```
+## Tratamento das bases
 
-### Ativar a env
-```shell
-.\[env_curso]\Scripts/activate
-```
-- Em caso de erro, comando do powershell para habilitar o activate (rodar powershell como adm) 
-- Set-ExecutionPolicy Unrestricted -Force 
+  Para o ETL, seguimos em 3 passos:
 
-### Instalar libs
+- Fazer o download das bases do BigQuery para manipulação
+- Realizar ajuste dos códigos que estão na tabela de microdados, com o dado correspondente contido no dicionário
+- Incluir informações adicionais para enriquecimento da base
 
-```shell
-python -m pip install -r requirements.txt
-```
+## Análise
 
-### Rodar o app
-```shell
-streamlit run Dash.py
-```
+## Conclusão

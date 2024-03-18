@@ -132,6 +132,7 @@ venv.bak/
 bases/microdados.csv
 bases/microdados_trat.csv
 bases/microdados_exp.csv
+dados.ipynb
 
 # Spyder project settings
 .spyderproject
